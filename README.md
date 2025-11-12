@@ -1,5 +1,5 @@
 ## 👨‍💻 Hola, soy Diego Rodriguez
-## Soy estudiante de Ingeniería de Sistemas con enfoque en el desarrollo de software, especializado en programación con Java y en el desarrollo de aplicaciones móviles. Actualmente formo parte de World POS Solutions, donde participo en el acompañamiento de requerimientos para entidades bancarias, brindando soporte, mantenimiento y seguimiento a las aplicaciones móviles utilizadas por sus clientes. Me caracterizo por mi compromiso con la calidad del software, la mejora continua y el aprendizaje constante de nuevas tecnologías.
+Soy estudiante de Ingeniería de Sistemas con enfoque en el desarrollo de software, especializado en programación con Java y en el desarrollo de aplicaciones móviles. Actualmente formo parte de World POS Solutions, donde participo en el acompañamiento de requerimientos para entidades bancarias, brindando soporte, mantenimiento y seguimiento a las aplicaciones móviles utilizadas por sus clientes. Me caracterizo por mi compromiso con la calidad del software, la mejora continua y el aprendizaje constante de nuevas tecnologías.
 <!--
 **DiegoR77/DiegoR77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
