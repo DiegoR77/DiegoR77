@@ -1,37 +1,45 @@
-# Diego Rodriguez
-**Java Developer · Mobile & Backend · Bucaramanga, Colombia**
+<div align="center">
+Mostrar imagen
+Diego Rodriguez
+Ocaña, Norte de Santander, Colombia
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+</div>
 
----
+Desarrollador Java con experiencia en producción en el sector financiero bancario. En WDS S.A.S construyo funcionalidades para aplicaciones de corresponsal multi bancario en Android, con foco en arquitectura limpia, integración de servicios REST y rendimiento de cara al usuario final. Actualmente cursando Ingeniería de Sistemas en la UFPSO mientras aplico lo aprendido en proyectos reales.
 
-Desarrollador Java con experiencia en producción dentro del sector financiero bancario. Trabajo en **WDS S.A.S** construyendo funcionalidades para aplicaciones de corresponsal multi bancario en Android, con foco en arquitectura limpia, integración de servicios REST y rendimiento de cara al usuario final.
+Stack
+Mobile & Backend
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Base de datos & herramientas
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Metodologías
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
 
-Actualmente cursando Ingeniería de Sistemas en la UFPSO mientras aplico lo que aprendo en proyectos reales.
+Experiencia
+Java Developer — WDS S.A.S (World Digital Solutions) · Sept 2025 – Presente
+Desarrollo e integración de funcionalidades en la app CMB (corresponsal multi bancario) para dispositivos Android. Implementación sobre arquitectura MVP, consumo de APIs REST, optimización de rendimiento y control de versiones con Git en metodología Scrum.
 
----
+Proyectos destacados
+ProyectoDescripciónRepoApp FinancieraGestión de tarjetas, transferencias e historial. Sistema de registro/login con splash screen.ver →Consumo API RESTApp sobre la API de Rick and Morty con favoritos y validación de conectividad.ver →App de GeolocalizaciónUbicación en tiempo real, marcadores favoritos y navegación en vista 3D.ver →
 
-## Stack principal
+Stats
+<div align="center">
+Mostrar imagen
+Mostrar imagen
+</div>
 
-`Java` `Android Studio` `Arquitectura MVP` `REST APIs` `Spring Boot` `Laravel` `PostgreSQL` `Git / GitHub`
-
----
-
-## Experiencia relevante
-
-**WDS S.A.S** — Java Developer · `Sept 2025 – Presente`  
-Desarrollo e integración de funcionalidades en la app CMB (corresponsal multi bancario). Implementación sobre arquitectura MVP, consumo de APIs REST, optimización de rendimiento y control de versiones con Git bajo metodología Scrum.
-
----
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Repo |
-|---|---|---|
-| App Financiera | Gestión de tarjetas, transferencias e historial. Sistema de registro y login con splash screen. | [ver →](https://github.com/DiegoR77/App-Financiera) |
-| Consumo de API REST | App sobre la API de Rick and Morty con favoritos y validación de conectividad. | [ver →](https://github.com/DiegoR77/ConsumoAPI-RickAndMorty) |
-| App de Geolocalización | Ubicación en tiempo real, marcadores favoritos y navegación en vista 3D. | [ver →](https://github.com/DiegoR77/Maps) |
-
----
-
-## Contacto
-
-dijo7788@gmail.com · [LinkedIn](https://linkedin.com/in/diego-rodriguez-b71a34307) · +57 313 804 2556
+<div align="center">
+<sub>dijo7788@gmail.com · +57 313 804 2556 · Ocaña, Colombia</sub>
+</div>
