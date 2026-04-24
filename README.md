@@ -1,16 +1,37 @@
-## 👨‍💻 Hola, soy Diego Rodriguez
-Soy estudiante de Ingeniería de Sistemas con enfoque en el desarrollo de software, especializado en programación con Java y en el desarrollo de aplicaciones móviles. Actualmente formo parte de World POS Solutions, donde participo en el acompañamiento de requerimientos para entidades bancarias, brindando soporte, mantenimiento y seguimiento a las aplicaciones móviles utilizadas por sus clientes. Me caracterizo por mi compromiso con la calidad del software, la mejora continua y el aprendizaje constante de nuevas tecnologías.
-<!--
-**DiegoR77/DiegoR77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Diego Rodriguez
+**Java Developer · Mobile & Backend · Bucaramanga, Colombia**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollador Java con experiencia en producción dentro del sector financiero bancario. Trabajo en **WDS S.A.S** construyendo funcionalidades para aplicaciones de corresponsal multi bancario en Android, con foco en arquitectura limpia, integración de servicios REST y rendimiento de cara al usuario final.
+
+Actualmente cursando Ingeniería de Sistemas en la UFPSO mientras aplico lo que aprendo en proyectos reales.
+
+---
+
+## Stack principal
+
+`Java` `Android Studio` `Arquitectura MVP` `REST APIs` `Spring Boot` `Laravel` `PostgreSQL` `Git / GitHub`
+
+---
+
+## Experiencia relevante
+
+**WDS S.A.S** — Java Developer · `Sept 2025 – Presente`  
+Desarrollo e integración de funcionalidades en la app CMB (corresponsal multi bancario). Implementación sobre arquitectura MVP, consumo de APIs REST, optimización de rendimiento y control de versiones con Git bajo metodología Scrum.
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Repo |
+|---|---|---|
+| App Financiera | Gestión de tarjetas, transferencias e historial. Sistema de registro y login con splash screen. | [ver →](https://github.com/DiegoR77/App-Financiera) |
+| Consumo de API REST | App sobre la API de Rick and Morty con favoritos y validación de conectividad. | [ver →](https://github.com/DiegoR77/ConsumoAPI-RickAndMorty) |
+| App de Geolocalización | Ubicación en tiempo real, marcadores favoritos y navegación en vista 3D. | [ver →](https://github.com/DiegoR77/Maps) |
+
+---
+
+## Contacto
+
+dijo7788@gmail.com · [LinkedIn](https://linkedin.com/in/diego-rodriguez-b71a34307) · +57 313 804 2556
