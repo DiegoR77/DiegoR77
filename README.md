@@ -71,7 +71,6 @@ Desarrollo e integración de funcionalidades en la app CMB (corresponsal multiba
 | **App Financiera** | Gestión de tarjetas, transferencias e historial. Registro/login con splash screen. | [ver →](https://github.com/DiegoR77/App-Financiera) |
 | **Consumo API REST** | App sobre la API de Rick and Morty con favoritos y validación de conectividad. | [ver →](https://github.com/DiegoR77/ConsumoAPI-RickAndMorty) |
 | **App de Geolocalización** | Ubicación en tiempo real, marcadores favoritos y navegación en vista 3D. | [ver →](https://github.com/DiegoR77/Maps) |
-| **Finzo** | App de finanzas personales en Flutter — ingresos/gastos, categorías, cuentas y gráficos. | [ver →](https://github.com/DiegoR77/Finzo) |
 
 ---
 
@@ -79,9 +78,9 @@ Desarrollo e integración de funcionalidades en la app CMB (corresponsal multiba
 
 <div align="center">
 
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoR77&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=1D9E75&text_color=444441&bg_color=ffffff)
+![Diego's GitHub Stats](https://github-stats-extended.vercel.app/api?username=DiegoR77&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=1D9E75&text_color=444441&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoR77&layout=compact&hide_border=true&title_color=185FA5&text_color=444441&bg_color=ffffff)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DiegoR77&layout=compact&hide_border=true&title_color=185FA5&text_color=444441&bg_color=ffffff)
 
 </div>
 
