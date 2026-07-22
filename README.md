@@ -13,7 +13,7 @@
 
 ---
 
-Desarrollador fullstack junior con cerca de un año de experiencia construyendo software para el sector financiero y empresarial. Trabajo full-stack con **Java y Spring Boot** en el backend y **React + Tailwind CSS** en el frontend, además de desarrollo móvil **Android nativo** (arquitectura MVP) en soluciones bancarias en producción. Actualmente lidero como Scrum Master y desarrollador backend el proyecto **SIDT**, mientras curso Ingeniería de Sistemas.
+Desarrollador fullstack junior con cerca de un año de experiencia construyendo software para el sector financiero y empresarial. Trabajo full-stack con **Java y Spring Boot** en el backend y **React + Tailwind CSS** en el frontend, además de desarrollo móvil **Android nativo** (arquitectura MVP) en soluciones bancarias en producción. Actualmente lidero como Scrum Master y desarrollador backend el proyecto **SIDT**, y desarrollo **Finzo**, una app de finanzas personales en Flutter, mientras curso Ingeniería de Sistemas en la UFPSO.
 
 ---
 
@@ -25,12 +25,15 @@ Desarrollador fullstack junior con cerca de un año de experiencia construyendo 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile extra**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Bases de datos & DevOps**
 
@@ -64,9 +67,11 @@ Desarrollo e integración de funcionalidades en la app CMB (corresponsal multiba
 | Proyecto | Descripción | Repo |
 |---|---|---|
 | **SIDT** | Sistema web empresarial full-stack (React + Spring Boot + PostgreSQL) con módulo de IA (YOLO) para detección de EPP. Rol: Scrum Master / Backend. | privado |
+| **Finzo** | App de finanzas personales construida en Flutter (Riverpod, Drift/SQLite, fl_chart, go_router). MVP: ingresos/gastos, categorías, cuentas y gráficas, v1 local. | [ver →](https://github.com/DiegoR77/Finzo) |
 | **App Financiera** | Gestión de tarjetas, transferencias e historial. Registro/login con splash screen. | [ver →](https://github.com/DiegoR77/App-Financiera) |
 | **Consumo API REST** | App sobre la API de Rick and Morty con favoritos y validación de conectividad. | [ver →](https://github.com/DiegoR77/ConsumoAPI-RickAndMorty) |
 | **App de Geolocalización** | Ubicación en tiempo real, marcadores favoritos y navegación en vista 3D. | [ver →](https://github.com/DiegoR77/Maps) |
+| **Finzo** | App de finanzas personales en Flutter — ingresos/gastos, categorías, cuentas y gráficos. | [ver →](https://github.com/DiegoR77/Finzo) |
 
 ---
 
