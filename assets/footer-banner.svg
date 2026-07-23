@@ -1,0 +1,31 @@
+<svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C5F8A"/>
+      <stop offset="50%" stop-color="#16324F"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="120" fill="url(#bgFooter)"/>
+
+  <path fill="#0D1117" opacity="0.45">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,40 C250,5 750,75 1000,40 L1000,0 L0,0 Z;
+        M0,25 C250,70 750,10 1000,50 L1000,0 L0,0 Z;
+        M0,40 C250,5 750,75 1000,40 L1000,0 L0,0 Z" />
+  </path>
+
+  <text x="450" y="70" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace"
+        font-size="22" fill="#E8EEF4" opacity="0">
+    Gracias por visitar · Colombia
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </text>
+
+  <g transform="translate(752,58)">
+    <rect x="0" y="0" width="34" height="10.5" fill="#FCD116"/>
+    <rect x="0" y="10.5" width="34" height="5.5" fill="#003893"/>
+    <rect x="0" y="16" width="34" height="5.5" fill="#CE1126"/>
+  </g>
+</svg>
