@@ -61,7 +61,7 @@ const diego = {
 [![](https://skillicons.dev/icons?i=spring,java&theme=dark)](https://skillicons.dev)
 
 #### Móvil
-[![](https://skillicons.dev/icons?i=androidstudio,java&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=androidstudio,java,flutter,dart&theme=dark)](https://skillicons.dev)
 
 #### Bases de Datos
 [![](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
