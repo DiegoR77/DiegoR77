@@ -1,8 +1,12 @@
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F64EB,100:00D4FF&height=220&section=header&text=Diego%20Rodr%C3%ADguez&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20%26%20React&descSize=22&descAlignY=60&animation=fadeIn)](https://github.com/DiegoR77)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=Construyendo+sistemas+empresariales+en+Java%2C+Spring+Boot%3B+React+%2B+Postgres+SQL+%2B+Docker%3B+Visi%C3%B3n+artificial+con+YOLOv8%3B+Apasionado+por+el+c%C3%B3digo+limpio+y+escalable)](https://github.com/DiegoR77)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React;PostgreSQL+%2B+Docker;Visi%C3%B3n+artificial+con+YOLO;C%C3%B3digo+limpio+y+escalable)](https://github.com/DiegoR77)
 
 [![focus](https://img.shields.io/badge/Focus-SIDT_Project-1F64EB?style=flat-square)](https://github.com/DiegoR77) [![open to work](https://img.shields.io/badge/Open_to_Work-00D4FF?style=flat-square)](https://github.com/DiegoR77)
+
+</div>
 
 ## 🚀 Sobre mí
 
@@ -144,20 +148,32 @@ const diego = {
 
 ## 💬 Conectemos
 
+<div align="center">
+
 **¿Tienes un proyecto interesante o una oportunidad?**
 *Estoy abierto a colaboraciones, propuestas laborales y conversaciones técnicas.*
 
-[![Email](https://img.shields.io/badge/-Env%C3%ADame_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dijo7788@gmail.com) [![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodriguez-b71a34307/) [![GitHub](https://img.shields.io/badge/-S%C3%ADgueme_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoR77)
+<br>
 
-| 📧 **Email** | 📱 **Teléfono** | 💼 **LinkedIn** | 💻 **GitHub** |
-|---|---|---|---|
-| dijo7788@gmail.com | +57 313 804 2556 | [diego-rodriguez](https://www.linkedin.com/in/diego-rodriguez-b71a34307/) | [@DiegoR77](https://github.com/DiegoR77) |
+[![Email](https://img.shields.io/badge/Env%C3%ADame_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dijo7788@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodriguez-b71a34307/)
+[![GitHub](https://img.shields.io/badge/S%C3%ADgueme_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoR77)
+
+<br>
+
+| 📧 Email | 📱 Teléfono | 📍 Ubicación |
+|:---:|:---:|:---:|
+| [dijo7788@gmail.com](mailto:dijo7788@gmail.com) | +57 313 804 2556 | Medellín / Cúcuta, Colombia |
+
+</div>
 
 ---
 
 <div align="center">
 
-[![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=DiegoR77&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=1&margin-w=5)](https://github.com/DiegoR77)
+### 🏆 Trofeos GitHub
+
+[![Trofeos GitHub](https://github-profile-trophy-winning.vercel.app/?username=DiegoR77&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8)](https://github.com/DiegoR77)
 
 </div>
 
