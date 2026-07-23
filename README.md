@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F64EB,100:00D4FF&height=220&section=header&text=Diego%20Rodr%C3%ADguez&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20%26%20React&descSize=22&descAlignY=60&animation=fadeIn)](https://github.com/DiegoR77)
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16324F,100:2C5F8A&height=220&section=header&text=Diego%20Rodr%C3%ADguez&fontColor=E8EEF4&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20%26%20React&descSize=22&descAlignY=60&animation=fadeIn)](https://github.com/DiegoR77)
 
 <div align="center">
 
@@ -51,6 +51,8 @@ const diego = {
 
 ## 🛠️ Arsenal Tecnológico
 
+<div align="center">
+
 #### Lenguajes
 [![](https://skillicons.dev/icons?i=java,js,html,css&theme=dark)](https://skillicons.dev)
 
@@ -69,13 +71,19 @@ const diego = {
 #### DevOps & Herramientas
 [![](https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode&theme=dark)](https://skillicons.dev)
 
+</div>
+
 ---
 
 # 🚀 Proyectos Destacados
 
 ## ⭐ SIDT — Sistema Integral de Diagnóstico Tecnomotriz
 
-[![Tipo](https://img.shields.io/badge/Tipo-Sistema_Empresarial-1F64EB?style=for-the-badge)](https://github.com/DiegoR77) [![Estado](https://img.shields.io/badge/Estado-En_Producci%C3%B3n-00D4FF?style=for-the-badge)](https://github.com/DiegoR77) [![Cliente](https://img.shields.io/badge/Cliente-Tecnomotos_S.A.S-0D1117?style=for-the-badge)](https://github.com/DiegoR77) [![Rol](https://img.shields.io/badge/Rol-Scrum_Master_%2F_Backend-1F64EB?style=for-the-badge)](https://github.com/DiegoR77)
+<div align="center">
+
+[![Tipo](https://img.shields.io/badge/Tipo-Sistema_Empresarial-1F64EB?style=for-the-badge)](https://github.com/DiegoR77) [![Estado](https://img.shields.io/badge/Estado-En_Producci%C3%B3n-2C5F8A?style=for-the-badge)](https://github.com/DiegoR77) [![Cliente](https://img.shields.io/badge/Cliente-Tecnomotos_S.A.S-0D1117?style=for-the-badge)](https://github.com/DiegoR77) [![Rol](https://img.shields.io/badge/Rol-Scrum_Master_%2F_Backend-1F64EB?style=for-the-badge)](https://github.com/DiegoR77)
+
+</div>
 
 > Plataforma web empresarial que digitaliza la operación de un Centro de Diagnóstico Automotor: citas, control de personal, inventario y detección automática de EPP mediante visión artificial. **+50 tablas relacionales · interfaces diferenciadas por 5 roles.**
 
@@ -91,27 +99,47 @@ const diego = {
 
 ### 🎯 Tecnologías aplicadas
 
+<div align="center">
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/DiegoR77) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/DiegoR77) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/DiegoR77) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/DiegoR77) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/DiegoR77) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DiegoR77) [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://github.com/DiegoR77) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/DiegoR77)
+
+</div>
 
 ---
 
 ## 🏦 Agente BCP — App de Corresponsal Multibancario
 
-[![Tipo](https://img.shields.io/badge/Tipo-App_Financiera_Android-1F64EB?style=for-the-badge)](https://github.com/DiegoR77) [![Estado](https://img.shields.io/badge/Estado-En_Producci%C3%B3n-00D4FF?style=for-the-badge)](https://github.com/DiegoR77) [![Empresa](https://img.shields.io/badge/Empresa-WDS_S.A.S-0D1117?style=for-the-badge)](https://github.com/DiegoR77)
+<div align="center">
+
+[![Tipo](https://img.shields.io/badge/Tipo-App_Financiera_Android-1F64EB?style=for-the-badge)](https://github.com/DiegoR77) [![Estado](https://img.shields.io/badge/Estado-En_Producci%C3%B3n-2C5F8A?style=for-the-badge)](https://github.com/DiegoR77) [![Empresa](https://img.shields.io/badge/Empresa-WDS_S.A.S-0D1117?style=for-the-badge)](https://github.com/DiegoR77)
+
+</div>
 
 > Aplicación Android bancaria en producción para corresponsalía multibancaria (CMB). Desarrollo de funcionalidades, integración de servicios REST con el backend financiero y optimización de rendimiento, bajo arquitectura MVP y metodología Scrum.
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/DiegoR77) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/DiegoR77) [![MVP](https://img.shields.io/badge/Arquitectura-MVP-1F64EB?style=flat-square)](https://github.com/DiegoR77) [![REST](https://img.shields.io/badge/REST_APIs-00D4FF?style=flat-square)](https://github.com/DiegoR77)
+<div align="center">
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/DiegoR77) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/DiegoR77) [![MVP](https://img.shields.io/badge/Arquitectura-MVP-1F64EB?style=flat-square)](https://github.com/DiegoR77) [![REST](https://img.shields.io/badge/REST_APIs-2C5F8A?style=flat-square)](https://github.com/DiegoR77)
+
+</div>
 
 ---
 
 ## 💰 Finzo — App de Finanzas Personales
 
+<div align="center">
+
 [![Tipo](https://img.shields.io/badge/Tipo-App_M%C3%B3vil-1F64EB?style=for-the-badge)](https://github.com/DiegoR77/Finzo) [![Stack](https://img.shields.io/badge/Stack-Flutter-02569B?style=for-the-badge)](https://github.com/DiegoR77/Finzo)
+
+</div>
 
 > App de finanzas personales construida en Flutter (Riverpod, Drift/SQLite, fl_chart, go_router). Gestión de ingresos/gastos, categorías, cuentas y gráficas.
 
+<div align="center">
+
 [![Ver repositorio →](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DiegoR77/Finzo)
+
+</div>
 
 ---
 
@@ -169,12 +197,4 @@ const diego = {
 
 ---
 
-<div align="center">
-
-### 🏆 Trofeos GitHub
-
-[![Trofeos GitHub](https://github-profile-trophy-winning.vercel.app/?username=DiegoR77&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8)](https://github.com/DiegoR77)
-
-</div>
-
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1F64EB,100:0D1117&height=120&section=footer&text=Gracias%20por%20visitar%20%C2%B7%20Norte%20de%20Santander%20%C2%B7%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=fadeIn)](https://github.com/DiegoR77)
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:2C5F8A,50:16324F,100:0D1117&height=120&section=footer&text=Gracias%20por%20visitar%20%C2%B7%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&fontColor=E8EEF4&fontSize=22&fontAlignY=70&animation=fadeIn)](https://github.com/DiegoR77)
