@@ -1,6 +1,8 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16324F,100:2C5F8A&height=220&section=header&text=Diego%20Rodr%C3%ADguez&fontColor=E8EEF4&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20%26%20React&descSize=22&descAlignY=60&animation=fadeIn)](https://github.com/DiegoR77)
-
 <div align="center">
+
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=4000&pause=100000&color=2C5F8A&center=true&vCenter=true&width=600&height=70&lines=Diego+Rodr%C3%ADguez)](https://github.com/DiegoR77)
+
+**Full Stack Developer · Java & React**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React;PostgreSQL+%2B+Docker;Visi%C3%B3n+artificial+con+YOLO;C%C3%B3digo+limpio+y+escalable)](https://github.com/DiegoR77)
 
@@ -197,4 +199,6 @@ const diego = {
 
 ---
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:2C5F8A,50:16324F,100:0D1117&height=120&section=footer&text=Gracias%20por%20visitar%20%C2%B7%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&fontColor=E8EEF4&fontSize=22&fontAlignY=70&animation=fadeIn)](https://github.com/DiegoR77)
+<div align="center">
+<sub>Gracias por visitar · Colombia 🇨🇴</sub>
+</div>
