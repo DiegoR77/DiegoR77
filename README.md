@@ -1,90 +1,164 @@
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F64EB,100:00D4FF&height=220&section=header&text=Diego%20Rodr%C3%ADguez&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20%26%20React&descSize=22&descAlignY=60&animation=fadeIn)](https://github.com/DiegoR77)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=Construyendo+sistemas+empresariales+en+Java%2C+Spring+Boot%3B+React+%2B+Postgres+SQL+%2B+Docker%3B+Visi%C3%B3n+artificial+con+YOLOv8%3B+Apasionado+por+el+c%C3%B3digo+limpio+y+escalable)](https://github.com/DiegoR77)
+
+[![focus](https://img.shields.io/badge/Focus-SIDT_Project-1F64EB?style=flat-square)](https://github.com/DiegoR77) [![open to work](https://img.shields.io/badge/Open_to_Work-00D4FF?style=flat-square)](https://github.com/DiegoR77)
+
+## 🚀 Sobre mí
+
+<table>
+<tr>
+<td>
+
+```js
+const diego = {
+  rol:        "Fullstack Developer Jr.",
+  ubicacion:  "Medellín / Cúcuta, Colombia 🇨🇴",
+  empresa:    "WDS S.A.S. (World Digital Solutions)",
+  freelance:  "Tecnomotos S.A.S. — Scrum Master / Backend",
+  proyecto:   "SIDT",
+  enfoque: [
+    "Backend con Java + Spring Boot",
+    "APIs REST con autenticación JWT",
+    "Modelado relacional en PostgreSQL",
+    "Desarrollo móvil Android (MVP)"
+  ],
+  filosofia:  "Código limpio y explicación clara de causa raíz"
+};
+```
+
+</td>
+<td>
+
+> 💡 **Lo que hago**  
+> Construyo software para el sector financiero: desde una app bancaria en producción (Android/Java) hasta un sistema web empresarial con más de 50 tablas relacionales.
+>
+> 🎯 **Mi stack diario**  
+> `Java` + `Spring Boot` en el backend · `React` + `Tailwind CSS` en el frontend · `PostgreSQL` para datos transaccionales · `Android` nativo con arquitectura MVP.
+>
+> ⚡ **Lo que me motiva**  
+> Entender la causa raíz de un problema antes de resolverlo, y entregar software que funcione de verdad en producción, no solo en demo.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Arsenal Tecnológico
+
+#### Lenguajes
+[![](https://skillicons.dev/icons?i=java,js,html,css&theme=dark)](https://skillicons.dev)
+
+#### Frontend
+[![](https://skillicons.dev/icons?i=react,tailwind&theme=dark)](https://skillicons.dev)
+
+#### Backend & APIs
+[![](https://skillicons.dev/icons?i=spring,java&theme=dark)](https://skillicons.dev)
+
+#### Móvil
+[![](https://skillicons.dev/icons?i=androidstudio,java&theme=dark)](https://skillicons.dev)
+
+#### Bases de Datos
+[![](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+
+#### DevOps & Herramientas
+[![](https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+# 🚀 Proyectos Destacados
+
+## ⭐ SIDT — Sistema Integral de Diagnóstico Tecnomotriz
+
+[![Tipo](https://img.shields.io/badge/Tipo-Sistema_Empresarial-1F64EB?style=for-the-badge)](https://github.com/DiegoR77) [![Estado](https://img.shields.io/badge/Estado-En_Producci%C3%B3n-00D4FF?style=for-the-badge)](https://github.com/DiegoR77) [![Cliente](https://img.shields.io/badge/Cliente-Tecnomotos_S.A.S-0D1117?style=for-the-badge)](https://github.com/DiegoR77) [![Rol](https://img.shields.io/badge/Rol-Scrum_Master_%2F_Backend-1F64EB?style=for-the-badge)](https://github.com/DiegoR77)
+
+> Plataforma web empresarial que digitaliza la operación de un Centro de Diagnóstico Automotor: citas, control de personal, inventario y detección automática de EPP mediante visión artificial. **+50 tablas relacionales · interfaces diferenciadas por 5 roles.**
+
+### 📦 Módulos del sistema
+
+| | Módulo | Descripción | Stack |
+|---|---|---|---|
+| 🔐 | **Autenticación** | JWT y control de acceso por roles (administrador, director técnico, secretaria, empleado, cliente) | `Spring Security` `JWT` |
+| 📅 | **Gestión de Citas** | CRUD de citas para SOAT y revisión técnico-mecánica | `Spring Boot` `JPA` |
+| 📦 | **Inventario** | Productos SOAT y control de maquinaria | `PostgreSQL` |
+| 🛡️ | **Detección de EPP (IA)** | Verificación automática de uso de EPP mediante visión artificial | `YOLO` `Python` |
+| 🎨 | **Frontend por rol** | Interfaces diferenciadas según el rol del usuario | `React` `Tailwind CSS` |
+
+### 🎯 Tecnologías aplicadas
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/DiegoR77) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/DiegoR77) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/DiegoR77) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/DiegoR77) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/DiegoR77) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DiegoR77) [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://github.com/DiegoR77) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/DiegoR77)
+
+---
+
+## 🏦 Agente BCP — App de Corresponsal Multibancario
+
+[![Tipo](https://img.shields.io/badge/Tipo-App_Financiera_Android-1F64EB?style=for-the-badge)](https://github.com/DiegoR77) [![Estado](https://img.shields.io/badge/Estado-En_Producci%C3%B3n-00D4FF?style=for-the-badge)](https://github.com/DiegoR77) [![Empresa](https://img.shields.io/badge/Empresa-WDS_S.A.S-0D1117?style=for-the-badge)](https://github.com/DiegoR77)
+
+> Aplicación Android bancaria en producción para corresponsalía multibancaria (CMB). Desarrollo de funcionalidades, integración de servicios REST con el backend financiero y optimización de rendimiento, bajo arquitectura MVP y metodología Scrum.
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/DiegoR77) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/DiegoR77) [![MVP](https://img.shields.io/badge/Arquitectura-MVP-1F64EB?style=flat-square)](https://github.com/DiegoR77) [![REST](https://img.shields.io/badge/REST_APIs-00D4FF?style=flat-square)](https://github.com/DiegoR77)
+
+---
+
+## 💰 Finzo — App de Finanzas Personales
+
+[![Tipo](https://img.shields.io/badge/Tipo-App_M%C3%B3vil-1F64EB?style=for-the-badge)](https://github.com/DiegoR77/Finzo) [![Stack](https://img.shields.io/badge/Stack-Flutter-02569B?style=for-the-badge)](https://github.com/DiegoR77/Finzo)
+
+> App de finanzas personales construida en Flutter (Riverpod, Drift/SQLite, fl_chart, go_router). Gestión de ingresos/gastos, categorías, cuentas y gráficas.
+
+[![Ver repositorio →](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DiegoR77/Finzo)
+
+---
+
+## 📱 Otros proyectos
+
+| Proyecto | Descripción | Stack | Repo |
+|---|---|---|---|
+| **App Financiera** | Registro/login, gestión de tarjetas, transferencias e historial | `Java` `MVP` | [ver →](https://github.com/DiegoR77/App-Financiera) |
+| **Consumo API REST** | App sobre la API de Rick and Morty con favoritos y validación de conectividad | `Java` `Android` | [ver →](https://github.com/DiegoR77/ConsumoAPI-RickAndMorty) |
+| **App de Geolocalización** | Ubicación en tiempo real, marcadores favoritos y navegación en vista 3D | `Java` `Maps SDK` | [ver →](https://github.com/DiegoR77/Maps) |
+
+---
+
+## 🎓 Formación & Certificaciones
+
+### 🏛️ Educación
+
+| |
+|---|
+| **Ingeniería de Sistemas** · *En curso*  <br>📍 Universidad Francisco de Paula Santander — Ocaña · 2023 — Presente |
+
+### 📜 Certificaciones
+
+| | |
+|---|---|
+| 🏆 **Java Profesional** | Código Facilito · 2026 |
+| 🏆 **Spring Framework y Spring Boot** | Código Facilito · 2026 |
+| 🏆 **Git y GitHub** | Coursera · 2025 |
+| 🏆 **Introducción al Desarrollo Front-End** | Meta / Coursera · 2024 |
+| 🏆 **Análisis de Datos** | Talento Tech · 2024 |
+| 🏆 **Toma de Decisiones** | Talento Tech · 2024 |
+
+---
+
+## 💬 Conectemos
+
+**¿Tienes un proyecto interesante o una oportunidad?**
+*Estoy abierto a colaboraciones, propuestas laborales y conversaciones técnicas.*
+
+[![Email](https://img.shields.io/badge/-Env%C3%ADame_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dijo7788@gmail.com) [![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodriguez-b71a34307/) [![GitHub](https://img.shields.io/badge/-S%C3%ADgueme_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoR77)
+
+| 📧 **Email** | 📱 **Teléfono** | 💼 **LinkedIn** | 💻 **GitHub** |
+|---|---|---|---|
+| dijo7788@gmail.com | +57 313 804 2556 | [diego-rodriguez](https://www.linkedin.com/in/diego-rodriguez-b71a34307/) | [@DiegoR77](https://github.com/DiegoR77) |
+
+---
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%C2%B7+Java+%26+React;Fintech+%7C+Android+%7C+REST+APIs;Building+clean+%26+scalable+software)](https://git.io/typing-svg)
-
-### Diego Rodríguez
-**Medellín / Cúcuta, Colombia**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-rodriguez-b71a34307)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DiegoR77)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dijo7788@gmail.com)
+[![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=DiegoR77&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=1&margin-w=5)](https://github.com/DiegoR77)
 
 </div>
 
----
-
-Desarrollador fullstack junior con cerca de un año de experiencia construyendo software para el sector financiero y empresarial. Trabajo full-stack con **Java y Spring Boot** en el backend y **React + Tailwind CSS** en el frontend, además de desarrollo móvil **Android nativo** (arquitectura MVP) en soluciones bancarias en producción. Actualmente lidero como Scrum Master y desarrollador backend el proyecto **SIDT**, y desarrollo **Finzo**, una app de finanzas personales en Flutter, mientras curso Ingeniería de Sistemas en la UFPSO.
-
----
-
-## Stack
-
-**Backend & Mobile**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-**Frontend & Mobile extra**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-**Bases de datos & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Metodologías**
-
-![MVP](https://img.shields.io/badge/Arquitectura_MVP-7F77DD?style=flat)
-![REST](https://img.shields.io/badge/REST_APIs-1D9E75?style=flat)
-![Scrum](https://img.shields.io/badge/Scrum_Master-0052CC?style=flat&logo=jira&logoColor=white)
-![OOP](https://img.shields.io/badge/POO-444441?style=flat)
-
----
-
-## Experiencia
-
-**Desarrollador de Software (Freelance) — Scrum Master / Backend · Tecnomotos S.A.S** `Feb 2026 – Presente`
-Desarrollo del SIDT, plataforma web para la gestión integral de un Centro de Diagnóstico Automotor. Backend en Spring Boot con autenticación JWT y control de acceso por roles, frontend en React + Tailwind CSS, modelo de datos en PostgreSQL con más de 50 tablas relacionales, e integración de un módulo de detección de EPP con visión por computador (YOLO). Entorno orquestado con Docker Compose.
-
-**Desarrollador Junior — WDS S.A.S (World Digital Solutions)** `Sept 2025 – Presente`
-Desarrollo e integración de funcionalidades en la app CMB (corresponsal multibancario) para Android. Arquitectura MVP, consumo de APIs REST, optimización de rendimiento y control de versiones con Git bajo metodología Scrum.
-
----
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Repo |
-|---|---|---|
-| **SIDT** | Sistema web empresarial full-stack (React + Spring Boot + PostgreSQL) con módulo de IA (YOLO) para detección de EPP. Rol: Scrum Master / Backend. | privado |
-| **Finzo** | App de finanzas personales construida en Flutter (Riverpod, Drift/SQLite, fl_chart, go_router). MVP: ingresos/gastos, categorías, cuentas y gráficas, v1 local. | [ver →](https://github.com/DiegoR77/Finzo) |
-| **App Financiera** | Gestión de tarjetas, transferencias e historial. Registro/login con splash screen. | [ver →](https://github.com/DiegoR77/App-Financiera) |
-| **Consumo API REST** | App sobre la API de Rick and Morty con favoritos y validación de conectividad. | [ver →](https://github.com/DiegoR77/ConsumoAPI-RickAndMorty) |
-| **App de Geolocalización** | Ubicación en tiempo real, marcadores favoritos y navegación en vista 3D. | [ver →](https://github.com/DiegoR77/Maps) |
-
----
-
-## Stats
-
-<div align="center">
-
-![Diego's GitHub Stats](https://github-stats-extended.vercel.app/api?username=DiegoR77&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=1D9E75&text_color=444441&bg_color=ffffff)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DiegoR77&layout=compact&hide_border=true&title_color=185FA5&text_color=444441&bg_color=ffffff)
-
-</div>
-
----
-
-<div align="center">
-<sub>dijo7788@gmail.com · +57 313 804 2556 · Medellín / Cúcuta, Colombia</sub>
-</div>
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1F64EB,100:0D1117&height=120&section=footer&text=Gracias%20por%20visitar%20%C2%B7%20Norte%20de%20Santander%20%C2%B7%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=fadeIn)](https://github.com/DiegoR77)
