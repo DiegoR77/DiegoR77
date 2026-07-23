@@ -1,8 +1,6 @@
 <div align="center">
 
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=4000&pause=100000&color=2C5F8A&center=true&vCenter=true&width=600&height=70&lines=Diego+Rodr%C3%ADguez)](https://github.com/DiegoR77)
-
-**Full Stack Developer · Java & React**
+![](assets/header-banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React;PostgreSQL+%2B+Docker;Visi%C3%B3n+artificial+con+YOLO;C%C3%B3digo+limpio+y+escalable)](https://github.com/DiegoR77)
 
@@ -200,5 +198,7 @@ const diego = {
 ---
 
 <div align="center">
-<sub>Gracias por visitar · Colombia 🇨🇴</sub>
+
+![](assets/footer-banner.svg)
+
 </div>
