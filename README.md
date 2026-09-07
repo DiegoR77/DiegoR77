@@ -2,7 +2,7 @@
 
 ![](assets/header-banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React;PostgreSQL+%2B+Docker;Visi%C3%B3n+artificial+con+YOLO;C%C3%B3digo+limpio+y+escalable)](https://github.com/DiegoR77)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React;Angular+%2B+PostgreSQL+%2B+Docker;Visi%C3%B3n+artificial+con+YOLO;Automatizaci%C3%B3n+con+WhatsApp+API;C%C3%B3digo+limpio+y+escalable)](https://github.com/DiegoR77)
 
 [![focus](https://img.shields.io/badge/Focus-SIDT_Project-1F64EB?style=flat-square)](https://github.com/DiegoR77) [![open to work](https://img.shields.io/badge/Open_to_Work-00D4FF?style=flat-square)](https://github.com/DiegoR77)
 
@@ -24,6 +24,7 @@ const diego = {
   enfoque: [
     "Backend con Java + Spring Boot",
     "APIs REST con autenticación JWT",
+    "Frontend con React y Angular",
     "Modelado relacional en PostgreSQL",
     "Desarrollo móvil Android (MVP)"
   ],
@@ -38,7 +39,7 @@ const diego = {
 > Construyo software para el sector financiero: desde una app bancaria en producción (Android/Java) hasta un sistema web empresarial con más de 50 tablas relacionales.
 >
 > 🎯 **Mi stack diario**  
-> `Java` + `Spring Boot` en el backend · `React` + `Tailwind CSS` en el frontend · `PostgreSQL` para datos transaccionales · `Android` nativo con arquitectura MVP.
+> `Java` + `Spring Boot` en el backend · `React` y `Angular` + `Tailwind CSS` en el frontend · `PostgreSQL` para datos transaccionales · `Android` nativo con arquitectura MVP.
 >
 > ⚡ **Lo que me motiva**  
 > Entender la causa raíz de un problema antes de resolverlo, y entregar software que funcione de verdad en producción, no solo en demo.
@@ -54,10 +55,10 @@ const diego = {
 <div align="center">
 
 #### Lenguajes
-[![](https://skillicons.dev/icons?i=java,js,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
 #### Frontend
-[![](https://skillicons.dev/icons?i=react,tailwind&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,angular,tailwind&theme=dark)](https://skillicons.dev)
 
 #### Backend & APIs
 [![](https://skillicons.dev/icons?i=spring,java&theme=dark)](https://skillicons.dev)
@@ -85,7 +86,7 @@ const diego = {
 
 </div>
 
-> Plataforma web empresarial que digitaliza la operación de un Centro de Diagnóstico Automotor: citas, control de personal, inventario y detección automática de EPP mediante visión artificial. **+50 tablas relacionales · interfaces diferenciadas por 5 roles.**
+> Plataforma web empresarial que digitaliza la operación de un Centro de Diagnóstico Automotor: citas, control de personal, inventario, recordatorios automáticos por WhatsApp y detección automática de EPP mediante visión artificial. **+50 tablas relacionales · interfaces diferenciadas por 5 roles.**
 
 ### 📦 Módulos del sistema
 
@@ -93,6 +94,7 @@ const diego = {
 |---|---|---|---|
 | 🔐 | **Autenticación** | JWT y control de acceso por roles (administrador, director técnico, secretaria, empleado, cliente) | `Spring Security` `JWT` |
 | 📅 | **Gestión de Citas** | CRUD de citas para SOAT y revisión técnico-mecánica | `Spring Boot` `JPA` |
+| 💬 | **Recordatorios por WhatsApp** | Tarea programada que cada 7 días notifica automáticamente al cliente sobre el vencimiento de su SOAT y su revisión técnico-mecánica, e invita a agendar la cita | `WhatsApp API` `Spring Scheduler` |
 | 📦 | **Inventario** | Productos SOAT y control de maquinaria | `PostgreSQL` |
 | 🛡️ | **Detección de EPP (IA)** | Verificación automática de uso de EPP mediante visión artificial | `YOLO` `Python` |
 | 🎨 | **Frontend por rol** | Interfaces diferenciadas según el rol del usuario | `React` `Tailwind CSS` |
@@ -101,7 +103,7 @@ const diego = {
 
 <div align="center">
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/DiegoR77) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/DiegoR77) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/DiegoR77) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/DiegoR77) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/DiegoR77) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DiegoR77) [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://github.com/DiegoR77) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/DiegoR77)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/DiegoR77) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/DiegoR77) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/DiegoR77) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/DiegoR77) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/DiegoR77) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DiegoR77) [![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/DiegoR77) [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://github.com/DiegoR77) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/DiegoR77)
 
 </div>
 
